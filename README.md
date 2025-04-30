@@ -15,6 +15,6 @@ Me chamo Daniela de Souza Dias, tenho 18 anos e sou de São Paulo. Concluí o en
 - **Banco de dados**: MySQL
 - **Ferramentas**: VS Code
 
-  ## 📫 Como me encontrar
+## 📫 Como me encontrar
 - [LinkedIn](https://www.linkedin.com/in/danieladsouzadias)  
 - [Email](mailto:danieladsouzadias@gmail.com)  
