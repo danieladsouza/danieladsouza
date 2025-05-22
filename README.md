@@ -4,13 +4,13 @@
 
 **Hello World!**
 
-Me chamo Daniela de Souza Dias, tenho 18 anos e sou de São Paulo. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na UniFECAF.
+Oi! Me chamo Daniela de Souza Dias, tenho 18 anos e sou de São Paulo. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na UniFECAF.
 
 ## 📈 O que estou fazendo
 - Criando projetos próprios para praticar Python e SQL  
 - Aprendendo sobre APIs, automação e análise de dados  
 
-## 🛠️ Tecnologias & Ferramentas
+## 🛠️ Tecnologias e Ferramentas
 - **Linguagens**: Python, SQL  
 - **Banco de dados**: MySQL
 - **Ferramentas**: VS Code
