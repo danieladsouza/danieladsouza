@@ -1,22 +1,15 @@
-#  Daniela Dias
+<img align='right' src="https://github-readme-stats.vercel.app/api?username=danieladsouza&show_icons=true&title_color=783c00&text_color=af552e&icon_color=783c00&bg_color=f8efd4&cache_seconds=2300" alt="ilustração do status do github">
 
-**`Desenvolvedora Back-End`**
+### Oi, meu nome é Daniela!
 
-**Hello World!**
+<img src="https://img.shields.io/static/v1?label=Overview&message=danieladsouza&color=f8efd4&style=for-the-badge&logo=GitHub" alt="Static GitHub">
 
-Oi! Me chamo Daniela de Souza Dias, tenho 18 anos e sou de São Paulo. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na UniFECAF.
+<p>Cursando ADS na UniFECAF<br/> Sou desenvolvedora back-end</p>
 
-## 📈 O que estou fazendo
-- Criando projetos próprios para praticar Python e SQL  
-- Aprendendo sobre APIs, automação e análise de dados  
-
-## 🛠️ Ferramentas
-- **Linguagens**: Python, SQL  
-- **Banco de dados**: MySQL
-- **Ferramentas**: VS Code
+<br>
 
 ##
 
-</a>
-<a href="mailto:danieladsouzadias@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href"https://www.linkedin.com/in/danieladsouza/" target="_blank"><img src="https://img.shields.io/badge/-Linkedin-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<br>
+
+<img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)" /> <img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
