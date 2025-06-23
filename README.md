@@ -1,4 +1,4 @@
-<img align='right' src="https://github-readme-stats.vercel.app/api?username=danieladsouza&show_icons=true&title_color=783c00&text_color=af552e&icon_color=783c00&bg_color=f8efd4&cache_seconds=2300" alt="ilustração do status do github">
+<img align='right' src="https://github-readme-stats.vercel.app/api?username=danieladsouza&show_icons=true&title_color=783c00&text_color=1b2234&icon_color=783c00&bg_color=f8efd4&cache_seconds=2300" alt="ilustração do status do github">
 
 ### Oi, meu nome é Daniela!
 
@@ -12,4 +12,4 @@
 
 <br>
 
-<img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)" /> <img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+<img src="https://img.shields.io/badge/Python-00000F?style=for-the-badge&logo=python&logoColor=f8efd4" /> <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=f8efd4)" /> <img src="https://img.shields.io/badge/Amazon_AWS-00000F?style=for-the-badge&logo=amazon-aws&logoColor=f8efd4" /> <img src="https://img.shields.io/badge/Figma-00000F?style=for-the-badge&logo=figma&logoColor=f8efd4" /> 
