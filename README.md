@@ -12,4 +12,4 @@
 
 <br>
 
-<img src="https://img.shields.io/badge/Python-00000F?style=for-the-badge&logo=python&logoColor=f8efd4" /> <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=f8efd4)" /> <img src="https://img.shields.io/badge/Amazon_AWS-00000F?style=for-the-badge&logo=amazon-aws&logoColor=f8efd4" /> <img src="https://img.shields.io/badge/Figma-00000F?style=for-the-badge&logo=figma&logoColor=f8efd4" /> 
+<img src="https://img.shields.io/badge/Python-00000F?style=for-the-badge&logo=python&logoColor=f8efd4" /> <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=f8efd4)" /> <img src="https://img.shields.io/badge/Amazon_AWS-00000F?style=for-the-badge&logo=amazon-aws&logoColor=f8efd4" />
