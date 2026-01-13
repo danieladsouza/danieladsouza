@@ -1,15 +1,34 @@
-<img align='right' src="https://github-readme-stats.vercel.app/api?username=danieladsouza&show_icons=true&title_color=783c00&text_color=1b2234&icon_color=783c00&bg_color=f8efd4&cache_seconds=2300" alt="ilustração do status do github">
+<h2> Hi, I'm Daniela! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
+<img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
+<p><em>DevOps Intern at <a href="http://www.vivo.com.br">Vivo S.A. </a></br>Systems Analysis and Development at <a href="https://www.unifecaf.com.br">UniFECAF</a> 
+</em></p>
 
-### Oi, meu nome é Daniela!
+[![Linkedin: danieladsouzadias](https://img.shields.io/badge/-danieladsouzadias-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/danieladsouzadias/)](https://www.linkedin.com/in/danieladsouzadias/)
+[![GitHub Daniela](https://img.shields.io/github/followers/daniela?label=follow&style=social)](https://github.com/danieladsouza)
 
-<img src="https://img.shields.io/static/v1?label=Overview&message=danieladsouza&color=f8efd4&style=for-the-badge&logo=GitHub" alt="Static GitHub">
 
-<p>Future Backend Developer <br/> DevOps Intern at Vivo!</p>
+### A little more about me...  
 
-<br>
+```python
+daniela = {
+    "code": ["Python", "Java", "SQL"],
+    "frameworks": ["Django"],
+    "databases": ["MySQL", "SQL Server"],
+    "tools": ["Git", "GitHub", "GitLab"],
+    "focus": [
+        "process automation",
+        "system integration",
+        "backend development"
+    ],
+    "learning": [
+        "DevOps practices",
+        "cloud fundamentals"
+    ]
+}
 
-##
+```
 
-<br>
 
-<img src="https://img.shields.io/badge/Python-00000F?style=for-the-badge&logo=python&logoColor=f8efd4" /> <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=f8efd4)" /> <img src="https://img.shields.io/badge/Amazon_AWS-00000F?style=for-the-badge&logo=amazon-aws&logoColor=f8efd4" />
+---
+
+⭐️ From [@Daniela](https://github.com/danieladsouza)
