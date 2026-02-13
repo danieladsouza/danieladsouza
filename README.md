@@ -11,8 +11,8 @@
 
 ```python
 daniela = {
-    "code": ["Python", "Java", "SQL"],
-    "frameworks": ["Django"],
+    "code": ["Python", "Node.js", "SQL"],
+    "frameworks": ["Django","Express"],
     "databases": ["MySQL", "SQL Server"],
     "tools": ["Git", "GitHub", "GitLab"],
     "focus": [
