@@ -30,5 +30,3 @@ daniela = {
 
 
 ---
-
-⭐️ From [@Daniela](https://github.com/danieladsouza)
