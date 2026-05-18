@@ -7,26 +7,21 @@
 [![GitHub Daniela](https://img.shields.io/github/followers/daniela?label=follow&style=social)](https://github.com/danieladsouza)
 
 
-### A little more about me...  
+### More about me...  
 
-```python
-daniela = {
-    "code": ["Python", "Node.js", "SQL"],
-    "frameworks": ["Django","Express"],
-    "databases": ["MySQL", "SQL Server"],
-    "tools": ["Git", "GitHub", "GitLab"],
-    "focus": [
-        "process automation",
-        "system integration",
-        "backend development"
-    ],
-    "learning": [
-        "DevOps practices",
-        "cloud fundamentals"
-    ]
-}
+```js
+const daniela = {
+  code: ["Node.js", "Python", "Rust"],
+  frameworks: ["Express", "Django"],
+  databases: ["MySQL", "SQL Server", "Oracle"],
+  tools: ["Git", "Docker", "Rancher", "Harbor"],
+  focus: [
+    "backend development",
+    "process automation",
+    "system integration",
+  ]
+};
+
+module.exports = daniela;
 
 ```
-
-
----
